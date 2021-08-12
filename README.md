@@ -1,5 +1,5 @@
 # Kaggle_car_segmentation
-
+This is a school project using FCN for car segmentation.
 ## File list: 
 ![文件目录](https://github.com/KennanYang/Kaggle_car_segmentation/blob/main/file.png)
 ## 1.experiment goal:
